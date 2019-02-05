@@ -1,4 +1,4 @@
-puts 'Would you like to roll the dice?(1/2)'
+puts 'Would you like to roll the dice?(Y=1/N=0)'
 
 x = gets.to_i
 
